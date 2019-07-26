@@ -1,6 +1,3 @@
-# author - Bart-SO
-# feel free to copy
-
 ## ----------------------- SETTINGS ----------------------- ##
 # left mouse button + :
 # LCTRL -> start
